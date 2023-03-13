@@ -1,7 +1,7 @@
 👋 Olá
 
-- Sou Rafael Uchôa Ribeiro;
--👌 Iniciando com python;
+* Sou Rafael Uchôa Ribeiro;
+*👌 Iniciando com python;
 
 
 ![Ruribeiro GitHub stats](https://github-readme-stats.vercel.app/api?username=ruribeiro&show_icons=true&theme=dark) 
