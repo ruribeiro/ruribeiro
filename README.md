@@ -8,7 +8,7 @@
 
 ##
 <div style="display: inline_block"><br>
-        <img align "cenyter" height="30" width="40" src=<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+        <img align "cenyter" height="30" width="40" src=<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
                     
           
 <!---
