@@ -1,4 +1,4 @@
-👋 Hi world, I’m @ruribeiro engineering student, attorney since 2008, in career migration.
+👋 Hi 
 
 
 <!---
