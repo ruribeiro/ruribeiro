@@ -1,8 +1,8 @@
 👋 Olá
 
-Sou Rafael Uchôa Ribeiro
-Iniciando com python
-Desenvolvimento WEB
+- Sou Rafael Uchôa Ribeiro
+👌 Iniciando com python
+😶Desenvolvimento WEB
 
 ![Ruribeiro GitHub stats](https://github-readme-stats.vercel.app/api?username=ruribeiro&show_icons=true&theme=dark) 
 
